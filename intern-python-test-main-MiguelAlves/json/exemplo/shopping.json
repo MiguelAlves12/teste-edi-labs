@@ -1,0 +1,25 @@
+{ 
+	"order": [
+		{
+			"id": 1,
+			"name": "Boné",
+			"description": "Boné Branco",
+			"quantity": 2,
+			"value": 25.20
+		},
+		{
+			"id": 2,
+			"name": "Camiseta",
+			"description": "Camiseta 100% Algodão",
+			"quantity": 3,
+			"value": 18.50
+		},
+		{
+			"id": 3,
+			"name": "Calça",
+			"description": "Calça Jeans",
+			"quantity": 1,
+			"value": 29.90
+		}
+	]
+}
